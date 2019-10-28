@@ -6,7 +6,7 @@ import VueRouer from 'vue-router'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-default/index.css'
 
-
+import '../static/css/reset.css'
 import dashboard from 'components/dashboard/dashboard'
 import 'font-awesome/css/font-awesome.css'
 import '../lib/mui-master/dist/css/mui.css'
